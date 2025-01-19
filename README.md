@@ -1,5 +1,4 @@
-![Image](https://github.com/user-attachments/assets/4469bd34-f871-4000-9711-f5ea0501dbd3) ![Image](https://github.com/user-attachments/assets/fb69c5ca-7e4c-4d14-8d77-bf5a70be638f) ![Image](https://github.com/user-attachments/assets/b2f49e5c-7702-4b39-b361-52b90bbef256)
-Logistic Regression
+![Image](https://github.com/user-attachments/assets/4469bd34-f871-4000-9711-f5ea0501dbd3) ![Image](https://github.com/user-attachments/assets/fb69c5ca-7e4c-4d14-8d77-bf5a70be638f) ![Image](https://github.com/user-attachments/assets/b2f49e5c-7702-4b39-b361-52b90bbef256) Logistic Regression
 Logistic Regression is a statistical method used for binary classification problems, where the target variable has two possible outcomes, such as yes/no, 0/1, or true/false. It is widely used in machine learning and statistics for tasks like spam detection, disease prediction, and customer churn analysis.
 
 Key Concepts
